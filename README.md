@@ -1,7 +1,6 @@
 ### 最近恢复每天签到都会+天数了~喜大普奔
 # glados-checkin
 ![glados-checkin](https://github.com/hbstarjason/glados-checkin/workflows/glados-checkin/badge.svg)
-## test
 #### 注册地址：
 
 1、打开 https://github.com/glados-network/GLaDOS ，找到[<u>***Register***</u>]，打开链接，填写邮箱进行登录。
