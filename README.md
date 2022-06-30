@@ -2,7 +2,7 @@
 # glados-checkin
 ![glados-checkin](https://github.com/hbstarjason/glados-checkin/workflows/glados-checkin/badge.svg)
 #### 
-
+1
 1、打开 https://github.com/glados-network/GLaDOS ，找到[<u>***Register***</u>]，打开链接，填写邮箱进行登录。
 
 2、输入激活码`CMW2C-JO7OC-LSVGO-TJ9TZ`，进行激活，获得3天试用
